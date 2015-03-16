@@ -3,3 +3,4 @@ Git is free software
 new line
 haha 
 Git has a mutable index called stage
+Git tracks changes
